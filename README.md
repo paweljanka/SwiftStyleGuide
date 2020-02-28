@@ -363,7 +363,7 @@ class MyClass {
 ### **Type inference and self**
 
 - Use type inference wherever you can - don't write type of property if it could be inferred by compiler.
-- User self only if it is necessary: when required to differentiate between property names and arguments and when referencing to class properties/methods from closure.
+- Use self only if it is necessary: when required to differentiate between property names and arguments and when referencing to class properties/methods from closure.
 
 *Preffered*
 
